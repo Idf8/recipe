@@ -1,0 +1,9 @@
+#wrapper {
+    margin: 0 auto;
+    width: 80%;
+    background-color: grey;
+}
+
+h1 {
+    text-align: center;
+}
